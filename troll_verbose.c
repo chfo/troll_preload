@@ -4,6 +4,12 @@
 static void init()  __attribute__((constructor));
 
 void init() {
-	printf("trololololo\n");
+	printf(
+" *       \n"
+" ( |\\ /| \n"
+"  ) . .  \n"
+"  ( =*=  \n"
+"   (   ) \n"
+"   .. .. \n");
 	exit(0);
 }
